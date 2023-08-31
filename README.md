@@ -25,8 +25,8 @@
 
 2 - Instalar o robot framework e selenium library na prompt de comando, utilizando o seguinte comandos: 
 
-    ```pip install robotframework```
-    ```pip install robotframework-seleniumlibrary```
+    pip install robotframework
+    pip install robotframework-seleniumlibrary
 
 3 - Instalar o cromedriver de acordo com a versão do seu navegador https://chromedriver.chromium.org/downloads.
 
