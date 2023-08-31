@@ -1,5 +1,6 @@
 ***AUTOMAÇÃO DO BLOG DO AGI***
 
+
 ***OBJETIVO DA AUTOMAÇÃO***
 
 - A Automação foi realizada com o objetivo de testar possíveis cenários da funcionalidade de Busca no do Blog AGI
