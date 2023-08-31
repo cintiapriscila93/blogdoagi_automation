@@ -4,6 +4,7 @@
 
 - A Automação foi realizada com o objetivo de testar possíveis cenários da funcionalidade de Busca no do Blog AGI
 
+
 ***ESTRUTURA DO PROJETO***
 
 - Settings.resource: Este arquivo possui bibliotecas a serem importadas, URL, navegador, e massa de dados que serão utilizados.
