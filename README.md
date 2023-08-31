@@ -34,4 +34,6 @@
 
 4 - Adicionar o arquivo chromedriver.exe no caminho onde está o python instalado, para saber o caminho onde o python está instalado deverá ir na opção de editar path das variáveis de ambiente do sistema, copie o caminho e cole na busca do explorador de arquivos.
 
-5 - Para executar os cenários de teste acesse o diretório "blogdoagi_automation/Tests/Home" e execute o comando robot HOME_BUSCA.robot.
+5 - Para executar os cenários de teste acesse o diretório "blogdoagi_automation/Tests/Home" e execute o comando:
+    
+    robot HOME_BUSCA.robot
